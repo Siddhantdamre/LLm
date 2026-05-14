@@ -1,4 +1,4 @@
-# LLM Fine-Tuning Workspace
+# Language Model Fine-Tuning Workspace
 
 Notebook workspace for language-model engineering practice, with Hugging Face fine-tuning exercises and experiment artifacts.
 
